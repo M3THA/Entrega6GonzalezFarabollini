@@ -55,7 +55,7 @@ ROOT_URLCONF = 'Proj_entrega.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['M:/My Drive/Cursos/Coderhouse/Python/Entrega 6/Nuevo/Entregable/Proj_entrega/Familiapp/Templates/'] ,
+        'DIRS': ['M:/My Drive/Cursos/Coderhouse/Python/Entrega 6/Nuevo/Entregable/Proj_entrega/Familiapp/Templates/Familiapp/'] ,
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
